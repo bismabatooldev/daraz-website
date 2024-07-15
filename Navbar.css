@@ -1,0 +1,15 @@
+.colr{
+    background-color: orangered;
+}
+.logo{
+    margin-top: 12px;
+    width: 700px;
+    border-radius: 10px;
+
+}
+.icon{
+    margin-left: 60px;
+}
+.nav-link{
+    color: white;
+}

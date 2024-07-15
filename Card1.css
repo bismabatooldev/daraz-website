@@ -1,0 +1,68 @@
+.mein{
+    height: 220px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+   border-radius: 20px;
+}
+.usage{
+    height: 40px ;
+    width: 180px;
+    background-color: rgb(6, 116, 124);
+    color: white;
+border-bottom-right-radius: 20px;
+border-top-left-radius: 20px;
+text-align: center;
+padding-top: 4px;
+font-weight: bold;
+}
+.icn{
+    margin-top: 30px;
+    margin-left: 67px;
+    height: 50px;
+    width: 62px;
+    border: 2px solid rgb(6, 116, 124);
+    border-radius: 90%;
+    background-color: whitesmoke;
+    
+}
+.tb{
+   color:  rgb(6, 116, 124); 
+
+    margin-top: 6px;
+    margin-left: 13px;
+}
+.select{
+    margin-top: 16px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 37px;
+   
+}
+.ca{
+    margin-left: 90px;
+    padding-top: 3px;
+    padding-left: 12px;
+    height: 44px;
+    width: 97px;
+    border: 2px solid rgb(6, 116, 124);
+    border-radius: 80px;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(6, 116, 124);
+    background-color: rgb(191, 252, 231);
+}
+.ab{
+    color:  rgb(6, 116, 124); 
+    
+}
+.bt{
+    padding-top: 4px;
+    margin-left: 30px;
+    margin-top: 40px;
+    height: 49px;
+    width: 180px ;
+    font-size: 24px;
+text-align: center;
+border-radius: 15px;
+    color: white;
+    background-color: rgb(6, 116, 124) ;
+}
